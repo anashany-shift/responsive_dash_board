@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_single_quotes
-class Assets {
-  Assets._();
+class AppAssets {
+  AppAssets._();
   
   /// Assets for imagesAvatar1
   /// assets/images/avatar1.svg
@@ -9,6 +9,7 @@ class Assets {
   /// Assets for imagesAvatar2
   /// assets/images/avatar2.svg
   static const String imagesAvatar2 = "assets/images/avatar2.svg";
+  static const String imagesAvatar3 = "assets/images/Avatar3.svg";
 
   /// Assets for imagesBalance
   /// assets/images/balance.svg
